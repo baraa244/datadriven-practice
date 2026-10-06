@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/tidy_haven_2275), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-06 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-06 |
 
 <!-- datadriven:index:end -->
